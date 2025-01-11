@@ -30,7 +30,7 @@ $HOME/Library/Application Support/Code/User/
 
 ## extensions
 
-- [docker]([https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker))
+- [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [better comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [glassit](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
 - [icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
