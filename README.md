@@ -31,11 +31,6 @@ rm %APPDATA%\Code\User\settings.json
 %APPDATA%\Code\User\
 ```
 
-
-## theme
-
-[simple dark](https://marketplace.visualstudio.com/items?itemName=tek256.simple-dark)
-
 ## extensions
 
 - [docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
