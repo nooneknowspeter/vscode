@@ -30,12 +30,13 @@ $HOME/Library/Application Support/Code/User/
 
 ## extensions
 
-- [docker](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
+- [docker]([https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker))
 - [better comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [glassit]([s-nlf-fh.glassit](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit))
 - [icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
 - [vscode remote containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [vscode remote explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
 - [vscode remote server](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server)
 - [vscode remote ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 - [vscode remote ssh edit](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
-- [vscode vim](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
+- [vscode vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
