@@ -17,11 +17,17 @@ git clone https://github.com/nooneknowspeter/vscode.git ~/.config/Code/User/
 ### macos
 
 ```
+rm -rf $HOME/Library/Application Support/User/setting.json $HOME/Library/Application Support/User/keybindings.json
+
 $HOME/Library/Application Support/Code/User/
 ```
 
 ### windows
 ```
+rm %APPDATA%\Code\User\settings.json
+
+rm %APPDATA%\Code\User\settings.json
+
 %APPDATA%\Code\User\
 ```
 
