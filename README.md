@@ -1,6 +1,6 @@
 # vscode config
 
-my essentials for after a clean install or new environment
+my vscode essentials
 
 ![](https://github.com/nooneknowspeter/vscode/blob/main/public/screenshot.png)
 
