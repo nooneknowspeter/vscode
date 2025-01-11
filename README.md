@@ -1,6 +1,6 @@
 # vscode config
 
-![]()
+![](https://github.com/nooneknowspeter/vscode/blob/main/public/screenshot.png)
 
 ## installation
 
