@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "tal7aouy.icons",
+    "vscodevim.vim",
+    "ms-vscode-remote.remote-wsl",
+    "tek256.simple-dark",
+    "ms-vscode.remote-explorer",
+    "ms-vscode.remote-server",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.remote-ssh",
+    "aaron-bond.better-comments",
+    "ms-vscode-remote.remote-containers",
+    "ms-azuretools.vscode-docker"
+  ]
+}
