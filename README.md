@@ -32,7 +32,7 @@ $HOME/Library/Application Support/Code/User/
 
 - [docker]([https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker))
 - [better comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-- [glassit]([s-nlf-fh.glassit](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit))
+- [glassit](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
 - [icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
 - [vscode remote containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [vscode remote explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
