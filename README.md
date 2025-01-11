@@ -37,6 +37,7 @@ $HOME/Library/Application Support/Code/User/
 - [glassit](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
 - [icons](https://marketplace.visualstudio.com/items?itemName=tal7aouy.icons)
 - [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [todo highlights](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [vscode remote containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [vscode remote explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)
 - [vscode remote server](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server)
