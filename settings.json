@@ -18,5 +18,6 @@
       "before": ["j", "k"],
       "after": ["<esc>"]
     }
-  ]
+  ],
+  "fountain.general.parentheticalNewLineHelper": false
 }
