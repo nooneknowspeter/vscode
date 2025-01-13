@@ -22,7 +22,7 @@
     "when": "vim.mode == 'Normal' && (editorTextFocus || !inputFocus)"
   },
   {
-    "key": "space e",
+    "key": "space n",
     "command": "runCommands",
     "args": {
       "commands": [
@@ -33,7 +33,7 @@
     "when": "vim.mode == 'Normal' && (editorTextFocus || !inputFocus) && !sideBarFocus"
   },
   {
-    "key": "space e",
+    "key": "space n",
     "command": "runCommands",
     "args": {
       "commands": [
@@ -44,7 +44,7 @@
     "when": "sideBarFocus && !inputFocus"
   },
   {
-    "key": "space e",
+    "key": "space n",
     "when": "vim.mode == 'Normal' && editorTextFocus && foldersViewVisible",
     "command": "workbench.action.toggleSidebarVisibility"
   },
@@ -96,7 +96,7 @@
     "when": "vim.mode == 'Normal' && editorTextFocus"
   },
   {
-    "key": "space space",
+    "key": "space f f",
     "command": "workbench.action.quickOpen",
     "when": "vim.mode == 'Normal' && (editorTextFocus || !inputFocus)"
   },
