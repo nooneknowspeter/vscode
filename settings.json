@@ -27,5 +27,8 @@
       "before": ["j", "k"],
       "after": ["<esc>"]
     }
-  ]
+  ],
+  "remote.SSH.remotePlatform": {
+    "*.gitpod.io": "linux"
+  }
 }
