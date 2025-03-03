@@ -18,13 +18,13 @@
   // better escape
   "vim.insertModeKeyBindings": [
     {
-      "before": ["j", "k"],
+      "before": ["j", "j"],
       "after": ["<esc>"]
     }
   ],
   "vim.visualModeKeyBindings": [
     {
-      "before": ["j", "k"],
+      "before": ["j", "j"],
       "after": ["<esc>"]
     }
   ],
